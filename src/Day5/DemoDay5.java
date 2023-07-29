@@ -1,8 +1,8 @@
 package Day5;
 
 public class DemoDay5 {
-	public static void main(String[] args) {
-		System.out.println("Java Day....");
-	}
 
+	public static void main(String[] args) {
+		System.out.println("YASIR");
+	}
 }
